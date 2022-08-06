@@ -2,13 +2,6 @@
 
 Review Java 9 Concepts at Jet Speed.
 
-### Complete Java Course
-[![Image](https://www.springboottutorial.com/images/Course-Java-Programming-for-Complete-Beginners-in-250-Steps.png "Java 9 Programming for Complete Beginners in 250 Steps
-")](https://links.in28minutes.com/MISC-JAVA)
-
-[![Image](https://www.springboottutorial.com/images/Course-Python-Programming-For-Java-Programmers-in-100-Easy-Steps.png "Python For Beginners - Java to Python in 100 Steps")](https://links.in28minutes.com/MISC-JAVA-PYTHON)
-
-[![Image](https://www.springboottutorial.com/images/Course-Learn-Functional-Programming-with-Java.png "Azure Crash Course for Java Spring Boot Developers")](https://links.in28minutes.com/MISC-FP)
 ## Introduction
 
 ## Background
